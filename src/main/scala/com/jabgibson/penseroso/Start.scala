@@ -1,8 +1,9 @@
 package com.jabgibson.penseroso
 
-object Main {
-	def main(args: Array[String]): Unit = {
-		println("hello penseroso")	
-	}
+import org.scalajs.dom
 
+object Start {
+	def main(args: Array[String]): Unit = {
+		println("Penseroso")
+	}
 }
